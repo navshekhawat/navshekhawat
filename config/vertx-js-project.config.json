@@ -1,0 +1,15 @@
+{
+	"version": "1.0.0",
+	"instances": 5,
+	"worker": false, 
+	"port": 8085,
+	"hostname": "localhost",
+	"allow_cors": true,	
+	"cors_allowed_headers" : ["globaltestdata",
+	    			"campaignsession_id",
+	    			"Access-Control-Request-Method",
+	    			"Access-Control-Allow-Credentials",
+	    			"Access-Control-Allow-Origin",
+	    			"Access-Control-Allow-Headers",
+	    			"Content-Type"]
+}
